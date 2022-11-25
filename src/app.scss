@@ -1,0 +1,20 @@
+@import './Sass/Variables.scss';
+
+.app {
+  position: relative;
+  display: block;
+  margin: 0 12rem;
+  padding-top: 3rem;
+
+  @include breakpoint(desktop-large) {
+    margin: 0 6rem;
+  }
+
+  @include breakpoint(tablet-landscape) {
+    margin: 0 4rem;
+  }
+
+  @include breakpoint(mobile-portrait) {
+    margin: 0 2rem;
+  }
+}
