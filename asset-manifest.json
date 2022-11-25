@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/SkyWolf/static/css/main.c797cb23.css",
+    "main.js": "/SkyWolf/static/js/main.fc45320e.js",
+    "static/media/logo.png": "/SkyWolf/static/media/logo.b968a0b0889e06305d6a.png",
+    "index.html": "/SkyWolf/index.html",
+    "main.c797cb23.css.map": "/SkyWolf/static/css/main.c797cb23.css.map",
+    "main.fc45320e.js.map": "/SkyWolf/static/js/main.fc45320e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c797cb23.css",
+    "static/js/main.fc45320e.js"
+  ]
+}
